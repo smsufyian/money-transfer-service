@@ -1,0 +1,13 @@
+#Blacklist all
+*
+
+#Whitelist the following
+!.github
+!.git
+!.gitignore
+!.gitattributes
+!.editorconfig
+!.dockerignore
+!pom.xml
+!src
+!README.md
