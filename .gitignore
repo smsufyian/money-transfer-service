@@ -8,5 +8,5 @@
 !.editorconfig
 !.dockerignore
 !pom.xml
-!src
+!src/*
 !README.md
