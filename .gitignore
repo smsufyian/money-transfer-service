@@ -2,7 +2,7 @@
 *
 
 #Whitelist the following
-!.github
+!.github/*.yaml
 !.gitignore
 !.gitattributes
 !.editorconfig
