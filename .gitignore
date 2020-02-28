@@ -3,7 +3,6 @@
 
 #Whitelist the following
 !.github
-!.git
 !.gitignore
 !.gitattributes
 !.editorconfig
